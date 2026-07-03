@@ -19,7 +19,6 @@
 
 # 🚀 About Me
 
-```yaml
 Name: Edasu Kaya
 
 Education:
@@ -71,21 +70,16 @@ Goal:
 
 # 🚀 Featured Projects
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Project                                                                                                                                                                                                                                                 Description
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------
-<a href="https://github.com/Kayaedasu/FlappyBird"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=FlappyBird&theme=tokyonight"/></a>                                                                                   Unity 2D Flappy Bird clone
+| Project | Description |
+| :--- | :--- |
+| <a href="https://github.com/Kayaedasu/FlappyBird"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=FlappyBird&theme=tokyonight"/></a> | Unity 2D Flappy Bird clone |
+| <a href="https://github.com/Kayaedasu/Mobil_3D_Oyun_Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=Mobil_3D_Oyun_Unity&theme=tokyonight"/></a> | 3D mobile game |
+| <a href="https://github.com/Kayaedasu/Human-vs-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=Human-vs-ai&theme=tokyonight"/></a> | Human vs AI text classification |
+| <a href="https://github.com/Kayaedasu/dolandiricilik-tespit-sistemi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=dolandiricilik-tespit-sistemi&theme=tokyonight"/></a> | Fraud detection |
+| <a href="https://github.com/Kayaedasu/yemek-yorum-analizi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=yemek-yorum-analizi&theme=tokyonight"/></a> | Sentiment analysis |
+| <a href="https://github.com/Kayaedasu/siber_guvenlik_solucan_uremesi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=siber_guvenlik_solucan_uremesi&theme=tokyonight"/></a> | Worm simulation |
 
-<a href="https://github.com/Kayaedasu/Mobil_3D_Oyun_Unity"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=Mobil_3D_Oyun_Unity&theme=tokyonight"/></a>                                                                 3D mobile game
-
-<a href="https://github.com/Kayaedasu/Human-vs-ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=Human-vs-ai&theme=tokyonight"/></a>                                                                                 Human vs AI text classification
-
-<a href="https://github.com/Kayaedasu/dolandiricilik-tespit-sistemi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=dolandiricilik-tespit-sistemi&theme=tokyonight"/></a>                                             Fraud detection
-
-<a href="https://github.com/Kayaedasu/yemek-yorum-analizi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=yemek-yorum-analizi&theme=tokyonight"/></a>                                                                 Sentiment analysis
-
-<a href="https://github.com/Kayaedasu/siber_guvenlik_solucan_uremesi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Kayaedasu&repo=siber_guvenlik_solucan_uremesi&theme=tokyonight"/></a>                                             Worm simulation
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
 
 # 📈 GitHub Statistics
 
